@@ -8,13 +8,15 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
-Explain how your project works
+You have 4 binary inputs, in which each function gives a different 7 segment output, you can see the results in the digital display
 
 ## How to test
 
-Explain how to use your project
+1. Initialize the simulator
+2. Use the dip switch to activate or desactivate an input (only use the switches from 1-4)
+3. Watch the outputs changing
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+1. Dip switch
+2. 7-segment digital display
